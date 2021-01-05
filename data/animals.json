@@ -1,5 +1,5 @@
 {
-  "animals": [
+  "animalsArray": [
     {
       "id": "0",
       "name": "Spindle",
@@ -117,6 +117,66 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Darlene",
+      "id": "jhgdja3ng2"
+    },
+    {
+      "name": "Darlene",
+      "id": "jhgdja3ng2"
+    },
+    {
+      "name": "Darlene",
+      "id": "jhgdja3ng2"
+    },
+    {
+      "name": "Darlene",
+      "id": "jhgdja3ng2"
+    },
+    {
+      "name": "Darlene",
+      "id": "jhgdja3ng2"
+    },
+    {
+      "name": "Darlene",
+      "id": "jhgdja3ng2"
+    },
+    {
+      "name": "Zebra",
+      "species": "Mammal",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "18"
+    },
+    {
+      "name": "Zebra",
+      "species": "Mammal",
+      "diet": "folivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "19"
+    },
+    {
+      "name": "Zebra",
+      "species": "Mammal",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "20"
+    },
+    {
+      "name": "Hippo",
+      "species": "Mammal",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "21"
     }
   ]
 }
